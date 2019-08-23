@@ -1,0 +1,66 @@
+# -*- org-export-html-auto-postamble:nil -*-
+#+TITLE:   Kaustav Kundu
+#+OPTIONS: toc:t num:nil ^:nil
+#+STARTUP: hideblocks
+#+STYLE: <link rel="stylesheet" href="data/stylesheet.css" type="text/css">
+
+# font
+#+HTML: <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'/>
+
+# me
+#+HTML: <div id="me"><img src="Kaustav.jpg" class="" alt="picture" height="165" width="130"/></div>
+
+# contact
+#+HTML: <div id="contact"><tt><u>Email</u><br />kkundu-at-ttic-edu<br /><br /></tt></div>
+
+#+HTML: <div is="address"><tt><u>Address</u><br />6045 S Kenwood Ave.<br />Toyota Technological Institute at Chicago<br />Chicago, IL<br />60637</tt></div>
+
+** Background
+   :PROPERTIES:
+   :CUSTOM_ID: background
+   :END:
+
+- I am a first year pre qualifying candidate (PhD student) at the [[http://www.ttic.edu/][Toyota Technological Institute at Chicago]], located in the [[http://www.uchicago.edu/][University of Chicago]] campus. I am working under the guidance of [[http://ttic.uchicago.edu/~rurtasun/][Professor Raquel Urtasun]].
+- I completed my undergraduate studies at [[http://iiit.ac.in/][IIIT Hyderabad]], India, majoring in Computer Science and Engineering.
+
+** Research
+   :PROPERTIES:
+   :CUSTOM_ID: research
+   :END:
+
+- My research interests lie broadly in the field of Computer Vision and Machine Learning.
+
+** Publications
+   :PROPERTIES:
+   :CUSTOM_ID: publications
+   :END:
+
+- Aditya Deshpande, Siddharth Choudhary, P J Narayanan, Krishna Kumar Singh, Kaustav Kundu, Aditya Singh, Apurva Kumar: _Geometry Directed Browser For Personal Photographs_ in /Indian Conference on Vision, Graphics and Image Processing (ICVGIP), 2012/ ([[file:12icvgip.pdf][pdf]], [[file:12icvgip.ppt][ppt]], [[https://www.dropbox.com/s/fa366phs2g98iv4/demo_geometry_directed_browser.avi][video]]  [[file:12icvgip_bibtex.txt][bibtex]])
+
+** Projects
+   :PROPERTIES:
+   :CUSTOM_ID: projects
+   :END:
+
+- Joint Depth Estimation and Semantic Segmentation
+     Given a single RGBD image captured from a single Kinect camera, we improve the depth estimation and perform semantic segmentation.
+
+** Courses
+   :PROPERTIES:
+   :CUSTOM_ID: course-notes
+   :END:
+
+- Fall 2012
+  - =31020= Introduction to Statistical Machine Learning ([[http://ttic.uchicago.edu/~gregory/courses/ml2012/][Course Website]])
+  - =31030= Mathematical Foundations ([[http://ttic.uchicago.edu/~dmcallester/foundations.pdf][Course Notes]])
+  - =36900= Linear Programming ([[http://faculty.chicagobooth.edu/kipp.martin/root/htmls/coursework/36900/36900.html][Course Website]])
+- Winter 2013
+  - =31010= Algorithms ([[http://ttic.uchicago.edu/~cjulia/Algorithms-Winter-2013.html][Course Website]])
+  - =31040= Introduction to Computer Vision ([[http://ttic.uchicago.edu/~rurtasun/courses/CV/cv.html][Course Website]])
+
+** Curriculum Vitae
+   :PROPERTIES:
+   :CUSTOM_ID: curriculum-vitae
+   :END:
+
+A recent (/as of December 2012/) copy of my CV is available [[file:Resume.pdf][here]].

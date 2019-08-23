@@ -1,0 +1,5 @@
+@inproceedings{ApartmentsCVPR15,
+	title = {Rent3D: Floor-Plan Priors for Monocular Layout Estimation},
+	author = {Chenxi Liu and Alex Schwing and Kaustav Kundu and Raquel Urtasun and Sanja Fidler},
+	booktitle = {CVPR},
+	year = {2015}}
